@@ -9,7 +9,7 @@
 <a href="https://trendshift.io/repositories/12918" target="_blank"><img src="https://trendshift.io/api/badge/repositories/12918" alt="potpie-ai%2Fpotpie | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
 </br>
   <br />
-  <a href="https://app.potpie.ai" rel="dofollow">App</a> | <a href="https://docs.potpie.ai" rel="dofollow">Documentation</a> | <a href="https://docs.potpie.ai/open-source"  rel="dofollow">API Reference</a> | <a href="https://app.potpie.ai/newchat?repo=potpie-ai/potpie&branch=main" rel="dofollow">Chat with 🥧 Repo</a>
+  <a href="https://app.potpie.ai" rel="dofollow">App</a> | <a href="https://docs.potpie.ai" rel="dofollow">Documentation</a> | <a href="https://docs.potpie.ai/open-source"  rel="dofollow">API Reference</a> | <a href="https://app.potpie.ai/newchat?repo=potpie-ai/potpie&branch=main" rel="dofollow">Chat with 🤑 Repo</a>
   <br />
 
   </p>
